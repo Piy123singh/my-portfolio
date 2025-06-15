@@ -30,7 +30,7 @@ export default function About() {
                   </svg>
                 </div>
                 <div className="ml-3">
-                  <p className="text-sm font-medium text-slate-900">Alex Johnson</p>
+                  <p className="text-sm font-medium text-slate-900">Piyush Kumar Singh</p>
                   <p className="text-sm text-slate-500">Full Stack Developer</p>
                 </div>
               </div>
@@ -42,7 +42,7 @@ export default function About() {
                   </svg>
                 </div>
                 <div className="ml-3">
-                  <p className="text-sm font-medium text-slate-900">Tech University</p>
+                  <p className="text-sm font-medium text-slate-900">NIT Patna</p>
                   <p className="text-sm text-slate-500">B.S. Computer Science</p>
                 </div>
               </div>
