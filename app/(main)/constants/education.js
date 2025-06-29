@@ -1,11 +1,12 @@
 const education = [
   {
     id: 1,
-    degree: 'Bachelor of Science',
-    major: 'Computer Science',
-    institution: 'Tech University',
-    year: '2020 - 2024',
-    description: 'Specialized in Web Development and Cloud Computing. GPA: 3.8/4.0',
+    degree: 'Bachelor of Technology',
+    major: 'Electronics and Communication Engineering',
+    institution: 'National Institute of Technology ,Patna',
+    year: '2022 - 2026',
+    cgpa:'8.46',
+    description: 'Specialized in Web Development and Data and Structure,Algorithm.',
     courses: [
       'Advanced Web Development',
       'Cloud Architecture',
@@ -15,11 +16,11 @@ const education = [
   },
   {
     id: 2,
-    degree: 'Higher Secondary',
-    major: 'Science (Computer Stream)',
-    institution: 'Modern High School',
-    year: '2018 - 2020',
-    description: 'Focus on Computer Science and Mathematics',
+    degree: 'Higher-Secondary-School',
+    major: 'Science-Math(Computer Science)',
+    institution: 'Sunbeam School Mughalsarai',
+    year: '2020 - 2021',
+    description: 'Focus on Science and Mathematics',
     courses: [
       'Computer Fundamentals',
       'Mathematics',
@@ -29,10 +30,10 @@ const education = [
   },
   {
     id: 3,
-    degree: "Inter School",
-    major: 'Science (Computer Stream)',
+    degree: "Secondary School",
+    major: 'Science-Math (Computer Stream)',
     institution: 'Sunbeam School Mughalsarai',
-    year: '2020 - 2021',
+    year: '2018 - 2019',
     description: 'Focus on Computer Science and Mathematics',
     courses: [
       'Computer Fundamentals',

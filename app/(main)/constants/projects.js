@@ -11,13 +11,13 @@ const projects = [
   },
   {
     id: 2,
-    title: 'Task Management App',
+    title: 'Chat gpt Clone',
     description: 'Collaborative task management application with real-time updates',
     detailedDescription: 'Developed using Next.js, Firebase, and Tailwind CSS. Features include drag-and-drop interface, team collaboration, and progress tracking.',
     tags: ['Next.js', 'Firebase', 'Tailwind CSS', 'React DnD'],
     link: 'https://taskmanager-demo.com',
     github: 'https://github.com/username/task-manager',
-    image: '/images/taskapp.jpg'
+    image: '/images/project2.jpg'
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projects = [
     tags: ['React', 'API Integration', 'Chart.js', 'Geolocation'],
     link: 'https://weather-dashboard-demo.com',
     github: 'https://github.com/username/weather-app',
-    image: '/images/weather.jpg'
+    image: '/images/project3.jpg'
   }
 ];
 export default projects

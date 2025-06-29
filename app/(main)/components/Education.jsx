@@ -48,6 +48,7 @@ export default function Education() {
                       <p className="text-sm text-gray-500">
                         {education.institution}
                       </p>
+      
                       <p className="text-sm text-gray-500">
                         {education.description}
                       </p>
